@@ -1,0 +1,4 @@
+﻿  Simulator.c
+C:\Users\user\source\repos\simsim\simsim\Simulator.c(79,18): warning C4101: 'disk_start_cyc': unreferenced local variable
+C:\Users\user\source\repos\simsim\simsim\Simulator.c(499,18): warning C4013: 'strcspn' undefined; assuming extern returning int
+  Simulator.vcxproj -> C:\Users\user\source\repos\simsim\x64\Debug\Simulator.exe
