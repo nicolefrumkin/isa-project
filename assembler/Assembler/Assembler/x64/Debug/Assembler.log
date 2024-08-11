@@ -1,0 +1,7 @@
+﻿  Assembler.c
+C:\Users\nicol\Desktop\project1_211615372_208276188_314807389\assembler\Assembler\Assembler.c(32,20): warning C4047: 'function': 'Instruction *' differs in levels of indirection from 'Instruction *[4096]'
+C:\Users\nicol\Desktop\project1_211615372_208276188_314807389\assembler\Assembler\Assembler.c(32,20): warning C4024: 'secondRun': different types for formal and actual parameter 2
+C:\Users\nicol\Desktop\project1_211615372_208276188_314807389\assembler\Assembler\Assembler.c(59,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\nicol\Desktop\project1_211615372_208276188_314807389\assembler\Assembler\Assembler.c(121,32): warning C4047: '==': 'int' differs in levels of indirection from 'char [2]'
+C:\Users\nicol\Desktop\project1_211615372_208276188_314807389\assembler\Assembler\Assembler.c(228,7): warning C4047: 'return': 'char' differs in levels of indirection from 'void *'
+  Assembler.vcxproj -> C:\Users\nicol\Desktop\project1_211615372_208276188_314807389\assembler\Assembler\x64\Debug\Assembler.exe
